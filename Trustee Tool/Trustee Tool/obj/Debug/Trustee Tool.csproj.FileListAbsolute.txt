@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\bin\Debug\Trustee Tool.exe
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\bin\Debug\Trustee Tool.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\obj\Debug\Trustee Tool.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\obj\Debug\Trustee_Tool.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\obj\Debug\Trustee_Tool.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\obj\Debug\Trustee Tool.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\obj\Debug\Trustee Tool.exe
+c:\users\admin\documents\visual studio 2013\Projects\Trustee Tool\Trustee Tool\obj\Debug\Trustee Tool.pdb
